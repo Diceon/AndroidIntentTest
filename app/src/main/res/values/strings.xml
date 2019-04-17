@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMessenger</string>
+    <string name="msg_text_hint">Enter your message...</string>
+    <string name="send_message_button_text">Send message</string>
+</resources>
